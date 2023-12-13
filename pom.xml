@@ -7,9 +7,9 @@
 	
 	<distributionManagement>
 		<repository>
-			<id>github_tiny_concurrent</id>
+			<id>github</id>
 			<name>GitHub tinycodecrank Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/tinycodecrank/tiny_concurrent</url>
+			<url>https://maven.pkg.github.com/tinycodecrank/maven-repo</url>
 		</repository>
 	</distributionManagement>
 	
@@ -22,19 +22,7 @@
 	<repositories>
 		<repository>
 			<id>github</id>
-			<url>https://maven.pkg.github.com/tinycodecrank/tiny_concurrent</url>
-		</repository>
-		<repository>
-			<id>github_tiny_collections</id>
-			<url>https://maven.pkg.github.com/tinycodecrank/tiny_collections</url>
-		</repository>
-		<repository>
-			<id>github_tiny_monads</id>
-			<url>https://maven.pkg.github.com/tinycodecrank/tiny_monads</url>
-		</repository>
-		<repository>
-			<id>github_better_functionals</id>
-			<url>https://maven.pkg.github.com/tinycodecrank/better_functionals</url>
+			<url>https://maven.pkg.github.com/tinycodecrank/maven-repo</url>
 		</repository>
 	</repositories>
 	
@@ -47,12 +35,12 @@
 		<dependency>
 			<groupId>de.tinycodecrank</groupId>
 			<artifactId>tiny_monads</artifactId>
-			<version>1.0.0</version>
+			<version>2.0.0</version>
 		</dependency>
 		<dependency>
 			<groupId>de.tinycodecrank</groupId>
 			<artifactId>better_functionals</artifactId>
-			<version>1.0.0</version>
+			<version>2.0.0</version>
 		</dependency>
 	</dependencies>
 	
