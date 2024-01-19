@@ -1,9 +1,9 @@
-package de.tinycodecrank.concurrent.yield;
+package kryptonbutterfly.concurrent.yield;
 
 import java.util.ArrayList;
 
-import de.tinycodecrank.functions.TriFunction;
-import de.tinycodecrank.functions.void_.TriConsumer;
+import kryptonbutterfly.functions.TriFunction;
+import kryptonbutterfly.functions.void_.TriConsumer;
 
 public final class TriYield<P1, P2, P3, Ret>
 {

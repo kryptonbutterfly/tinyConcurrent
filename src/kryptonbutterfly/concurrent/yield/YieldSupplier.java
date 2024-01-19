@@ -1,4 +1,4 @@
-package de.tinycodecrank.concurrent.yield;
+package kryptonbutterfly.concurrent.yield;
 
 import java.util.ArrayList;
 import java.util.Iterator;

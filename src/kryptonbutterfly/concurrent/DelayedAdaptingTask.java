@@ -1,4 +1,4 @@
-package de.tinycodecrank.concurrent;
+package kryptonbutterfly.concurrent;
 
 import java.util.function.Consumer;
 import java.util.function.Function;

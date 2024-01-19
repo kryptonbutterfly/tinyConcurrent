@@ -1,10 +1,10 @@
-module de.tinycodecrank.Concurrent
+module kryptonbutterfly.Concurrent
 {
-	exports de.tinycodecrank.concurrent.defer;
-	exports de.tinycodecrank.concurrent.yield;
-	exports de.tinycodecrank.concurrent;
-
-	requires de.tinycodecrank.Collections;
-	requires de.tinycodecrank.Functional;
-	requires de.tinycodecrank.Monads;
+	exports kryptonbutterfly.concurrent.defer;
+	exports kryptonbutterfly.concurrent.yield;
+	exports kryptonbutterfly.concurrent;
+	
+	requires kryptonbutterfly.Collections;
+	requires kryptonbutterfly.Functional;
+	requires kryptonbutterfly.Monads;
 }

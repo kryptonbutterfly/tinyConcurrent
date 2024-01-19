@@ -1,9 +1,9 @@
-package de.tinycodecrank.concurrent;
+package kryptonbutterfly.concurrent;
 
 import java.util.function.BooleanSupplier;
 import java.util.function.LongConsumer;
 
-import de.tinycodecrank.monads.opt.Opt;
+import kryptonbutterfly.monads.opt.Opt;
 
 public class Timer
 {

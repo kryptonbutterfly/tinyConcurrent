@@ -1,8 +1,8 @@
-package de.tinycodecrank.concurrent.defer;
+package kryptonbutterfly.concurrent.defer;
 
 import java.util.function.Supplier;
 
-import de.tinycodecrank.collections.Stack;
+import kryptonbutterfly.collections.Stack;
 
 public final class Defer
 {

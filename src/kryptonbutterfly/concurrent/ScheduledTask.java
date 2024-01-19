@@ -1,4 +1,4 @@
-package de.tinycodecrank.concurrent;
+package kryptonbutterfly.concurrent;
 
 public final class ScheduledTask extends Thread
 {
